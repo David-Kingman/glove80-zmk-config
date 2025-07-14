@@ -191,7 +191,7 @@
 &kp EQUAL       &kp N1          &kp N2          &kp N3       &kp N4            &kp N5                                                                                     &kp N6  &kp N7             &kp N8               &kp N9           &kp N0              &kp MINUS
 &kp TAB         &kp Q           &kp W           &kp E        &kp R             &kp T                                                                                      &kp Y   &kp U              &kp I                &kp O            &kp P               &kp BSLH
 &kp ESC         &hm LEFT_GUI A  &hm LEFT_ALT S  &hm LCTRL D  &hm LEFT_SHIFT F  &kp G                                                                                      &kp H   &hm RIGHT_SHIFT J  &hm RIGHT_CONTROL K  &hm RIGHT_ALT L  &hm RIGHT_GUI SEMI  &kp SQT
-&kp LEFT_SHIFT  &kp Z           &kp X           &kp C        &kp V             &kp B   &kp GRAVE  &none    &kp RG(RC(S))  &kp K_MUTE  &kp C_VOLUME_UP  &kp C_VOLUME_DOWN  &kp N   &kp M              &kp COMMA            &kp DOT          &kp FSLH            &kp RIGHT_SHIFT
+&kp LEFT_SHIFT  &kp Z           &kp X           &kp C        &kp V             &kp B   &kp GRAVE  &none    &kp RG(RS(S))  &kp K_MUTE  &kp C_VOLUME_UP  &kp C_VOLUME_DOWN  &kp N   &kp M              &kp COMMA            &kp DOT          &kp FSLH            &kp RIGHT_SHIFT
 &magic 3 0      &kp HOME        &kp END         &kp LEFT     &kp RIGHT                 &kp BSPC   &kp DEL  &layer_td      &kp LWIN    &kp RET          &kp SPACE                  &kp UP             &kp DOWN             &kp LBKT         &kp RBKT            &kp PG_DN
             >;
         };
